@@ -1,5 +1,5 @@
 # HTML
-Examples of
+Examples of code in:
 - HTML
 - CSS
 - Javascript
